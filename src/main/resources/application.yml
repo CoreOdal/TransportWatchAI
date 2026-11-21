@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: railwatch-ai
+
+server:
+  port: 8080
+  shutdown: graceful
+
+spring.lifecycle:
+  timeout-per-shutdown-phase: 20s
+
+logging:
+  level:
+    root: INFO
