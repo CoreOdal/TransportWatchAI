@@ -1,10 +1,10 @@
-package ie.railwatchai;
+package ie.transportwatchai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RailWatchAiApplicationTests {
+class TransportWatchAiApplicationTests {
 
 	@Test
 	void contextLoads() {
